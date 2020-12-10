@@ -1,4 +1,4 @@
-# detection-of-MT
+# Detection-of-MT
 I tried to detect MT from a fluctuation movie.
 
 Please make directories as follows:
