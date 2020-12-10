@@ -2,10 +2,15 @@
 I tried to detect MT from a fluctuation movie.
 
 Please make directories as follows:
+
 media/image/1_original/
+
 media/image/2_gray/
+
 media/image/3_binary/
+
 media/image/4_bgsub/
+
 media/video/
 
 Please put the directory "media" in the same directory as "main.py".
