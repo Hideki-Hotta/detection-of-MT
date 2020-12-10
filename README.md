@@ -14,3 +14,5 @@ Please put a movie in "video" and a template image in "image".
 (The size of a the movie was too big to upload to github...)
 
 Please rewrite the pathname in "main.py".
+
+It is a trial phase so precision is too bad (20201210).
