@@ -20,4 +20,4 @@ Please put a movie in "video" and a template image in "image".
 
 Please rewrite the pathname in "main.py".
 
-It is a trial phase so precision is too bad (20201210).
+It is a trial phase so precision can't be desirable (20201210).
